@@ -10,7 +10,7 @@ public class SubTask {
 
     public SubTask(String name, String data, Task task) {
         // generate random short uuid
-        this.id = UUID.randomUUID().toString();
+        this.id = Handyman.genUUID();
         this.name = name;
         this.data = data;
     }
