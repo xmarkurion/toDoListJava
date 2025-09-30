@@ -7,8 +7,6 @@ public class Group {
     String name;
     String details;
 
-
-
     public Group(String name, String details) {
         this.id = Handyman.genUUID();
         this.name = name;
