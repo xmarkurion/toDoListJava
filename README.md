@@ -30,7 +30,7 @@ ShellShow more lines
 Contributions are welcome! Feel free to fork the repo and submit a pull request. 🛠️
 
 # 📄 Dev blog
-- Initial document [PDF](/DOC/AppIdea_01.pdf)
+- Initial document [PDF](/DOC/PDF/AppIdea_01.pdf)
 
 # 📄 License
 This project is licensed under the MIT License. 📜
