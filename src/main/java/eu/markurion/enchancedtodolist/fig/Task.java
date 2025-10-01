@@ -3,6 +3,9 @@ package eu.markurion.enchancedtodolist.fig;
 import java.sql.Date;
 import java.util.ArrayList;
 
+/**
+ * Task class
+ */
 public class Task {
     String name;
     Date startedAt;
